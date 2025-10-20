@@ -16,7 +16,17 @@ O objetivo é demonstrar como criar uma aplicação CLI modularizada, que utiliz
 
 ## Como executar
 
-1. Instale as dependências:
+1. Clone o projeto:
+    ```sh
+    git clone https://github.com/GabrielVinicius1106/Eval
+    ```
+
+2. Acesse a pasta do projeto:
+    ```sh
+    cd ./Eval   
+    ```
+
+3. Instale as dependências:
    ```sh
    npm install
    ```
